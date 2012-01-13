@@ -8,14 +8,14 @@ var:
   categories_path : /categories.html
   tags_path : /tags.html
 
-production_url : http://username.github.com # or your custom domain name
-title : Jekyll Boostrap
+production_url : http://dfried.github.com # or your custom domain name
+title : Dan Fried Dot Net
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : Dan Fried
+  email : daniel.k.fried@gmail.com
+  github : dfried
+  twitter : danielkfried
   feedbuder : feedname
 
 exclude: .rbenv-version
